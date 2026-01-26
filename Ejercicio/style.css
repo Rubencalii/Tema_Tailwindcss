@@ -1,0 +1,38 @@
+body {
+
+    font-family: 'Inter', sans-serif;
+
+}
+.hero-gradient {
+
+    background: radial-gradient(circle at top, #1a1a2e 0%, #0a0a0f 70%);
+
+}
+    
+.glow-text {
+      
+    text-shadow: 0 0 20px rgba(139, 92, 246, 0.5);
+    
+}
+    
+.neon-border {
+      
+    box-shadow: 0 0 15px rgba(236, 72, 153, 0.4), inset 0 0 15px rgba(236, 72, 153, 0.2);  
+    border: 2px solid rgba(236, 72, 153, 0.6);
+    
+}
+    
+.audio-player-custom::-webkit-media-controls-panel {
+
+    background-color: #f1f1f1;
+
+}
+
+.bg-spotify {
+    
+    background-color: #1DB954 !important;
+ 
+}
+
+
+
